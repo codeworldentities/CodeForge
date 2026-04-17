@@ -1,0 +1,40 @@
+<!-- Auto-generated: styles — stylesheet definitions v6570 -->
+<div class="styles-—-stylesheet-definitions-6570">
+  <header class="flex-row">
+    <h2>styles — stylesheet definitions</h2>
+    <nav class="nav-6570">
+      <a href="#section-1">Overview</a>
+      <a href="#section-2">Details</a>
+    </nav>
+  </header>
+  <main class="container">
+    <div class="grid">
+      <p>Generated component for styles — stylesheet definitions</p>
+      <span class="badge badge-6570">v6570</span>
+    </div>
+  </main>
+</div>
+
+<style>
+.styles-—-stylesheet-definitions-6570 {
+  display: grid;
+  grid-template-columns: 1fr 2fr;
+  gap: 15px;
+  padding: 17px;
+  background: #49eeee;
+  border-radius: 8px;
+  border: 1px solid #185879;
+}
+.styles-—-stylesheet-definitions-6570 .flex-row {
+  color: #e24e4a;
+  font-size: 18px;
+  font-weight: 400;
+}
+.badge-6570 {
+  background: #185879;
+  color: white;
+  padding: 2px 8px;
+  border-radius: 6px;
+  font-size: 13px;
+}
+</style>
